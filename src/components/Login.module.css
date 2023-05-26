@@ -1,0 +1,11 @@
+.loginbox {
+  margin: 40px;
+  position: absolute;
+
+  margin-left: 35%;
+  width: 350px;
+  height: 400px;
+  padding: 20px;
+  border-radius: 15px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 26);
+}
